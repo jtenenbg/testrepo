@@ -1,2 +1,2 @@
 This is file2.txt
-Here is the 2nd line.
+Here is the 2nd line
