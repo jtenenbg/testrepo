@@ -1,2 +1,6 @@
 This is file2.txt
+<<<<<<< HEAD
 a 2nd line
+=======
+Here is the 2nd line
+>>>>>>> origin/master
