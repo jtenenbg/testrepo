@@ -1,3 +1,7 @@
 This is file2.txt
+<<<<<<< HEAD
 Here is another 2nd line.
 
+=======
+Here is the 2nd line.
+>>>>>>> origin/master
